@@ -44,7 +44,7 @@ You can customize the app by modifying the following files:
 
 ## Deployment
 
-The app is deployed using Netlify. You can access it at (Link:[[https://your-app-url](https://6481f0c0d783300f0a3e90bd--rad-sorbet-3420a9.netlify.app)](https://6481f0c0d783300f0a3e90bd--rad-sorbet-3420a9.netlify.app)).
+The app is deployed using Netlify. You can access it at (Link)[https://6481f0c0d783300f0a3e90bd--rad-sorbet-3420a9.netlify.app]
 
 ## License
 
